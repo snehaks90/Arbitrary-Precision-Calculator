@@ -29,6 +29,10 @@ Unlike normal integer data types, this calculator can perform arithmetic operati
 
 1111111111111111110
 
+## Sample Execution
+
+![Sample Output](image.png)
+
 ## Learning Outcomes
 - Linked List implementation
 - Dynamic memory management
